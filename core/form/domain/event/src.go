@@ -1,8 +1,8 @@
 package event
 
 import (
-	"github.com/thingworks/jarvis-go/core/form/domain/sheet"
-	"github.com/thingworks/jarvis-go/core/form/domain/sheet/header"
+	"github.com/thingworks/jarvis/core/form/domain/sheet"
+	"github.com/thingworks/jarvis/core/form/domain/sheet/header"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

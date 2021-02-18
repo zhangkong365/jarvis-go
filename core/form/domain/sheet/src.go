@@ -1,10 +1,10 @@
 package sheet
 
 import (
-	"github.com/thingworks/jarvis-go/common"
-	"github.com/thingworks/jarvis-go/common/domain"
-	"github.com/thingworks/jarvis-go/core/form/domain/sheet/header"
-	"github.com/thingworks/jarvis-go/label"
+	"github.com/thingworks/jarvis/common"
+	"github.com/thingworks/jarvis/common/domain"
+	"github.com/thingworks/jarvis/core/form/domain/sheet/header"
+	"github.com/thingworks/jarvis/label"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

@@ -1,7 +1,7 @@
 package header
 
 import (
-	"github.com/thingworks/jarvis-go/core/process/domain/counter"
+	"github.com/thingworks/jarvis/core/process/domain/counter"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

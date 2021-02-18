@@ -1,6 +1,6 @@
 package core
 
-import "github.com/thingworks/jarvis-go/common/domain"
+import "github.com/thingworks/jarvis/common/domain"
 
 type CodedCommonResource struct {
 	Code          string

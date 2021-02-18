@@ -1,7 +1,7 @@
 package event
 
 import (
-	"github.com/thingworks/jarvis-go/core/indicator/domain"
+	"github.com/thingworks/jarvis/core/indicator/domain"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
