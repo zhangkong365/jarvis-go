@@ -1,4 +1,4 @@
-module github.com/thingworks/jarvis-go
+module github.com/thingworks/jarvis
 
 go 1.15
 
