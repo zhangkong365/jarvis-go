@@ -1,10 +1,10 @@
 package domain
 
 import (
-	"github.com/thingworks/jarvis/common"
-	"github.com/thingworks/jarvis/core/core"
-	"github.com/thingworks/jarvis/core/process/domain/counter"
-	"github.com/thingworks/jarvis/label"
+	"github.com/thingworks/jarvis-go/common"
+	"github.com/thingworks/jarvis-go/core/core"
+	"github.com/thingworks/jarvis-go/core/process/domain/counter"
+	"github.com/thingworks/jarvis-go/label"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"time"
 )

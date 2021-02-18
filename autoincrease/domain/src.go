@@ -1,6 +1,6 @@
 package domain
 
-import "github.com/thingworks/jarvis/common/domain"
+import "github.com/thingworks/jarvis-go/common/domain"
 
 type AutoIncreasable interface {
 	GetContainerResourceId() string
